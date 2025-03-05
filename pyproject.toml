@@ -1,0 +1,5 @@
+[project]
+name = "aws-bench"
+version = "0.1.0"
+description = "aws-bench measures how well AI agents and model combinations perform on real AWS work — diagnosing misconfigurations, provisioning infrastructure, and operating live cloud environments."
+requires-python = ">=3.10"
