@@ -5,3 +5,4 @@ description = "aws-bench measures how well AI agents and model combinations perf
 requires-python = ">=3.10"
 # clarify the control flow
 # drop an unused branch
+# handle the edge case from the last release
